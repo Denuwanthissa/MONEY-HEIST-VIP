@@ -27,7 +27,7 @@ HEROKU_API: process.env.HEROKU_API || "HRKU-ed5c6fb8-14b9-4e21-b652-0df45300750f
 OWNER_NUMBER:process.env.OWNER_NUMBER || "",
 
 //Github Workflows Deploy කරනව නම් පමනක් පහත Env යෙදිය යුතුය!
-GITHUB_TOKEN: process.env.GITHUB_TOKEN || "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",
+GITHUB_TOKEN: process.env.GITHUB_TOKEN || "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",
 YOUR_REPO:process.env.YOUR_REPO || "https://github.com/Denuwanthissa/MONEY-HEIST-VIP/",
 
 
