@@ -21,13 +21,13 @@ const fsm = require('fs'); if (fsm.existsSync('config.env')) require('dotenv').c
 ╚═╝░░░░░╚═╝╚═════╝░ 𝗣𝗢𝗪𝗘𝗥𝗘𝗗 𝗕𝗬 𝗠𝗥 𝗗𝗜𝗟𝗔 𝗢𝗙𝗖
 */
 
-SESSION_ID: process.env.SESSION_ID || "MONEY-HEIST-MD-OUcxyRDR#rXAHpweyZ9cGrddvqmVOffL4ajisF1AaAnIpBS9swrE-DILALK", 
+SESSION_ID: process.env.SESSION_ID || "MONEY-HEIST-MD-PNNGGapK#PMquxh8nm-8cecle8rjC2_4wOqqP69Aer7A61uuf6Co-DILALK", 
 MONGODB: process.env.MONGODB || "mongodb+srv://denuwanhakim:<db_password>@cluster0.ec93hvb.mongodb.net/",
 HEROKU_API: process.env.HEROKU_API || "HRKU-ed5c6fb8-14b9-4e21-b652-0df45300750f",
 OWNER_NUMBER:process.env.OWNER_NUMBER || "",
 
 //Github Workflows Deploy කරනව නම් පමනක් පහත Env යෙදිය යුතුය!
-GITHUB_TOKEN: process.env.GITHUB_TOKEN || "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",
+GITHUB_TOKEN: process.env.GITHUB_TOKEN || "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",
 YOUR_REPO:process.env.YOUR_REPO || "https://github.com/Denuwanthissa/MONEY-HEIST-VIP/",
 
 
